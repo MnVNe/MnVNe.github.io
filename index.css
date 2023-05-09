@@ -1,0 +1,9 @@
+.box{
+  box-sizing:border-box;
+  margin:12px;
+  height:100px;
+  width:100px;
+  text-align:center;
+  font-size:20px;
+  text-align:center;
+}
